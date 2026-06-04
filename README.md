@@ -14,7 +14,7 @@
 ---
 
 ### 🌍 About Me
-- 🎓 1st Year BTS Student in Web Development  
+- 🎓 Holder of a BTS Diploma in Web Development 
 - 💻 Strong interest in Full-Stack Development  
 - ⚡ Focused on practical projects and real-world experience  
 - 📍 Based in Morocco  
